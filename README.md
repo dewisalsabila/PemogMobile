@@ -14,6 +14,13 @@
 ![iPhone 16 - 12](https://github.com/user-attachments/assets/1dd19b01-2e2d-4d28-92b1-2e90d1f99e0d)
 ## 5. TAMPILAN KETIKA INGIN MELIHAT RIWAT ABSEN YANG TELAH DILAKUKAN
 ![RIWAYAT](https://github.com/user-attachments/assets/b0199ff5-2453-459b-9691-1b6d3b54a439)
+## MOCKUP
+![Frame 5 mockup](https://github.com/user-attachments/assets/e0d9e269-c3a3-42ec-85c2-7f583e40be2a)
+## UI DESIGN
+![Frame 8](https://github.com/user-attachments/assets/87d380e8-a7f7-4db6-90ba-758a88f83db8)
+
+
+
 
 
 
